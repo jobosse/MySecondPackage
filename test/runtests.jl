@@ -1,6 +1,5 @@
-using MySecondPackage
 using Test
 
 @testset "MySecondPackage.jl" begin
-    # Write your tests here.
+    include("simplest_model.jl")
 end

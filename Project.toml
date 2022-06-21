@@ -3,6 +3,10 @@ uuid = "906e9191-6339-4ed4-802d-adf7900228f7"
 authors = ["Johannes Bosse johannes.bosse@rwth-aachen.de"]
 version = "0.1.0"
 
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+
 [compat]
 julia = "1.7.2"
 
